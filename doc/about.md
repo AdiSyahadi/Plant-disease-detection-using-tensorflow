@@ -6,7 +6,7 @@ Sebuah aplikasi yang memudahkan petani, ilmuwan dan ahli botani untuk mendeteksi
 
 ## Model
 
-Trained to identify 5 classes for **Disease Detection** and 24 classes for **Disease Classification**
+Mengidentifikasi 5 kelas untuk Deteksi Penyakit dan 24 kelas untuk Klasifikasi Penyakit**
 
            - Disease Classification Classes
 
