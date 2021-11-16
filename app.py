@@ -143,7 +143,7 @@ def main():
     activities = ["About" ,"Plant Disease"]
     choice = st.sidebar.selectbox("Select Activty",activities)
     enhance_type = st.sidebar.radio("Type",["Detection","Classification","Treatment"])
-    
+    st.sidebar.title("Plant Disease Detection & Classification")
 	
 	
     if choice =='About':
