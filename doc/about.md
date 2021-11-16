@@ -1,6 +1,6 @@
 ## About Project
 
-An application that facilitates farmers, scientists and botanists to detect the type of plant or crops, detect any kind of diseases in them. The app sends the image of the plant to the server where it is analysed using CNN classifier model. Once detected, the disease and its solutions are displayed to the user.
+Sebuah aplikasi yang memudahkan petani, ilmuwan dan ahli botani untuk mendeteksi jenis tanaman dan mendeteksi segala jenis penyakit di dalamnya. Aplikasi mengirimkan gambar tanaman ke server untuk dianalisis menggunakan model pengklasifikasi CNN. Setelah terdeteksi, penyakit dan solusinya ditampilkan kepada pengguna.
 
 ---
 
