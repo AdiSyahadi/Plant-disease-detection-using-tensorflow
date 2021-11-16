@@ -144,7 +144,7 @@ def main():
     choice = st.sidebar.selectbox("Select Activty",activities)
     enhance_type = st.sidebar.radio("Type",["Detection","Classification","Treatment"])
     st.sidebar.title("Developed by :")
-    st.sidebar.text("Atlas Class - AI for Start-UP :")
+    st.sidebar.text("Atlas Class - ## AI for Start-UP")
 	
 	
     if choice =='About':
